@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="sqlite3" type="AUTO_DETECTED" />
-      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
