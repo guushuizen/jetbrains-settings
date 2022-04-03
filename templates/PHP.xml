@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;public function $method_title$()&#10;{&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="method_title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="foreign" value="$table-&gt;foreign('$COLUMN$')-&gt;references('id')-&gt;on('$TABLE$')-&gt;onDelete('cascade');" description="Table foreign" toReformat="false" toShortenFQNames="true">
+    <variable name="COLUMN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

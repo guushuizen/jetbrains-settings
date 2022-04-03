@@ -1,0 +1,7 @@
+<templateSet group="JavaScript Testing">
+  <template name="testsetup" value="import { shallow, mount } from 'vue-test-utils';&#10;import expect from 'expect';&#10;import moxios from 'moxios'&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

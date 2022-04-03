@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript">
+        <added pattern="ObjectConstructor.assign(target,source1,source2)" />
+      </blacklist>
+      <blacklist language="PHP">
+        <added pattern="\Illuminate\Database\Eloquent\Factories\Factory.state(state)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
+  </component>
+</application>
