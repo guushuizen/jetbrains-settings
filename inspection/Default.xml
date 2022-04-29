@@ -17,7 +17,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="109">
+        <list size="139">
           <item index="0" class="java.lang.String" itemvalue="traitlets" />
           <item index="1" class="java.lang.String" itemvalue="protobuf" />
           <item index="2" class="java.lang.String" itemvalue="joblib" />
@@ -127,6 +127,36 @@
           <item index="106" class="java.lang.String" itemvalue="factory" />
           <item index="107" class="java.lang.String" itemvalue="grpcio" />
           <item index="108" class="java.lang.String" itemvalue="pygraphviz" />
+          <item index="109" class="java.lang.String" itemvalue="firebase-admin" />
+          <item index="110" class="java.lang.String" itemvalue="googleapis-common-protos" />
+          <item index="111" class="java.lang.String" itemvalue="python-crontab" />
+          <item index="112" class="java.lang.String" itemvalue="blessings" />
+          <item index="113" class="java.lang.String" itemvalue="psycopg2" />
+          <item index="114" class="java.lang.String" itemvalue="django-seed" />
+          <item index="115" class="java.lang.String" itemvalue="google-cloud-storage" />
+          <item index="116" class="java.lang.String" itemvalue="kombu" />
+          <item index="117" class="java.lang.String" itemvalue="pycparser" />
+          <item index="118" class="java.lang.String" itemvalue="click-didyoumean" />
+          <item index="119" class="java.lang.String" itemvalue="google-resumable-media" />
+          <item index="120" class="java.lang.String" itemvalue="celery" />
+          <item index="121" class="java.lang.String" itemvalue="Faker" />
+          <item index="122" class="java.lang.String" itemvalue="curtsies" />
+          <item index="123" class="java.lang.String" itemvalue="google-auth-httplib2" />
+          <item index="124" class="java.lang.String" itemvalue="bpython" />
+          <item index="125" class="java.lang.String" itemvalue="google-api-core" />
+          <item index="126" class="java.lang.String" itemvalue="django-celery-beat" />
+          <item index="127" class="java.lang.String" itemvalue="google-crc32c" />
+          <item index="128" class="java.lang.String" itemvalue="ropevim" />
+          <item index="129" class="java.lang.String" itemvalue="amqp" />
+          <item index="130" class="java.lang.String" itemvalue="asgiref" />
+          <item index="131" class="java.lang.String" itemvalue="proto-plus" />
+          <item index="132" class="java.lang.String" itemvalue="django-timezone-field" />
+          <item index="133" class="java.lang.String" itemvalue="google-api-python-client" />
+          <item index="134" class="java.lang.String" itemvalue="CacheControl" />
+          <item index="135" class="java.lang.String" itemvalue="click-repl" />
+          <item index="136" class="java.lang.String" itemvalue="click-plugins" />
+          <item index="137" class="java.lang.String" itemvalue="google-cloud-firestore" />
+          <item index="138" class="java.lang.String" itemvalue="google-cloud-core" />
         </list>
       </value>
     </option>
